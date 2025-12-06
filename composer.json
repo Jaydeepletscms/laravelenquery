@@ -1,5 +1,5 @@
 {
-  "name": "system/agent",
+  "name": "letscms/agent",
   "description": "Lightweight agent for activity tracking",
   "type": "library",
   "license": "MIT",
